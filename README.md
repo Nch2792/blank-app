@@ -11,8 +11,13 @@ A simple Streamlit app template for you to modify!
    ```
    $ pip install -r requirements.txt
    ```
+2. Install the OpenAI import
 
-2. Run the app
+   ```
+   $ pip install openai
+   ```
+
+4. Run the app
 
    ```
    $ streamlit run streamlit_app.py
