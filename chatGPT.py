@@ -2,7 +2,7 @@ from openai import OpenAI
 import json
 
 client = OpenAI(
-    api_key= "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"
+    api_key = "NOT AN API KEY"
 )
 
 system_prompt = """
